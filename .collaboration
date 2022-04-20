@@ -153,5 +153,15 @@
   {
     "ModuleName": "ページ3",
     "ModuleType": 1
+  },
+  {
+    "ModuleName": "ページ222",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Yasuko",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-04-20T14:52:22.5101518+09:00",
+    "ModuleType": 1
   }
 ]
