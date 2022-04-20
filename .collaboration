@@ -97,12 +97,6 @@
   },
   {
     "ModuleName": "ページ1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "YasukoTakura",
-      "Email": "yasuko.takura@grapecity.com"
-    },
-    "LockDateTime": "2022-03-14T14:05:24.8220211+09:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\ページ1.json"
@@ -114,12 +108,6 @@
   },
   {
     "ModuleName": "3662ae4e-b6b1-4ac1-b3e9-bf214d7e34ab",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "YasukoTakura",
-      "Email": "yasuko.takura@grapecity.com"
-    },
-    "LockDateTime": "2022-03-14T14:04:49.5700838+09:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "TableSet",
@@ -141,12 +129,6 @@
   },
   {
     "ModuleName": "396e6eb8-d825-4457-85fe-f7367f51b11b",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "YasukoTakura",
-      "Email": "yasuko.takura@grapecity.com"
-    },
-    "LockDateTime": "2022-03-14T14:21:12.8470701+09:00",
     "ModuleType": 11,
     "ToRemoveFiles": [
       "UserServiceDB.sqlite3"
