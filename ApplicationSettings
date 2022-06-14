@@ -3,6 +3,7 @@
   <IntegrateWithOtherApplication>
     <Password>mJVeOe%86HNR</Password>
   </IntegrateWithOtherApplication>
+  <NotAllowSendMailByJsApi>False</NotAllowSendMailByJsApi>
   <UserServicePort>39588</UserServicePort>
   <WebSitePort>19662</WebSitePort>
 </ApplicationSettings>
